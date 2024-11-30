@@ -3,5 +3,4 @@ pandas==2.2.3
 plotly==5.24.1
 scikit-learn==1.5.2
 toml==0.10.2
-tornado==6.4.2
-python==3.13.0
+
